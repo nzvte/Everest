@@ -29,20 +29,6 @@ Everest is designed for high-performance, and compatibility with R6, and R15 gam
 
 and many more!
 
-# Full Credit List
-
-1. GameOverAgain for Hitbox Expander.
-2. icew0lf22 for Unnamed-ESP.
-3. EdgeIY for InfiniteYield.
-4. CORRUPTED for CCamera.
-5. exxtremestuffs for SimpleSpy.
-6. Sheenieboy for ExploiterChat.
-7. Upbolt for Hydroxide.
-8. illremember for Energize.
-
-If I missed any, created a issue, and I will look into it.
-
-
 # Demo
 
 ![Demo](/Images/Demo.gif)
@@ -55,3 +41,15 @@ In order to use, or even execute Everest, you will need to buy the Synapse X exe
 loadstring(game:HttpGet(""))()
 ```
 
+# Full Credit List
+
+1. GameOverAgain for Hitbox Expander.
+2. icew0lf22 for Unnamed-ESP.
+3. EdgeIY for InfiniteYield.
+4. CORRUPTED for CCamera.
+5. exxtremestuffs for SimpleSpy.
+6. Sheenieboy for ExploiterChat.
+7. Upbolt for Hydroxide.
+8. illremember for Energize.
+
+If I missed any, created a issue, and I will look into it.
