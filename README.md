@@ -9,7 +9,7 @@ Everest is a next-gen Roblox exploitation hub in development, and is meant to re
 
 # Features
 
-Everest is designed for high-performance, and compatibility with R6, and R15 games with Synapse X. Below is a full list of the features included in Everest:
+Everest is designed for high-performance, and compatibility with R6, and R15 games with Synapse X. Below is a small list of the features included in Everest:
 
 1. RGB-flow changing design.
 2. Arrow buttons allow flipping between pages.
@@ -26,6 +26,7 @@ Everest is designed for high-performance, and compatibility with R6, and R15 gam
 13. Synapse X Stream Sniper.
 14. Custom-vulnerability scanner, named Live Wire.
 15. Click-teleport with toggles.
+16. Tooltip's included with each feature to help you better understand how a feature works.
 
 and many more!
 
@@ -40,6 +41,8 @@ In order to use, or even execute Everest, you will need to buy the Synapse X exe
 ```
 loadstring(game:HttpGet(""))()
 ```
+
+You can even save it into your Synapse's Autoexecute folder, and works great!
 
 # Full Credit Listing
 
