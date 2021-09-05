@@ -41,7 +41,7 @@ and many more!
 In order to use, or even execute Everest, you will need to buy the Synapse X executor from the official website located here: [Synapse X Official Website](https://x.synapse.to/). All proper documentation for setting up Synapse X is also included on their website. After setting up Synapse X, you will need to go into any of your favorite Roblox games, click attach, copy, paste, and execute the following code:
 
 ```
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Th3Tr1ckst3r/Everest/main/Loader/EverestLoader.lua"))()
 ```
 
 You can even save it into your Synapse's Autoexecute folder, and it works great!
