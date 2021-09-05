@@ -52,4 +52,4 @@ loadstring(game:HttpGet(""))()
 7. Upbolt for Hydroxide.
 8. illremember for Energize.
 
-If I missed any, created a issue, and I will look into it.
+If I missed any, create a issue in the Issues tab, and I will look into it.
