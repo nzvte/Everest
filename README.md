@@ -37,11 +37,11 @@ and many more!
 
 In order to use, or even execute Everest, you will need to buy the Synapse X executor from the official website located here: [Synapse X Official Website](https://x.synapse.to/). All proper documentation for setting up Synapse X is also included on their website. After setting up Synapse X, you will need to go into any of your favorite Roblox games, click attach, copy, paste, and execute the following code:
 
-# ```
+```
 loadstring(game:HttpGet(""))()
 ```
 
-# Full Credit List
+# Full Credit Listing
 
 1. GameOverAgain for Hitbox Expander.
 2. icew0lf22 for Unnamed-ESP.
