@@ -1,7 +1,8 @@
 
 Everest is a next-gen exploitation toolkit that anyone can enjoy.
 
-Everest's built-in hub is hosted on Github, and created by Th3Tr1ckst3r.
+Everest's built-in hub is hosted on Github, and created by 
+Th3Tr1ckst3r.
 
 You can find more information on the project page at:
 
