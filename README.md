@@ -5,7 +5,9 @@
 
 # Description
 
-Everest is a next-gen Roblox exploitation hub in development, and is meant to replace every script hub that's mean't to work universally to-date. Everest covers so many features other's don't have, or were thought to not exist. Compatibility with Everest has been limited to the Synapse X executor, due to the fact that is supports more features than any other script executor to-date with over 2 years of development. Enjoy!
+Everest is a next-gen Roblox exploitation hub in development, and is meant to replace every script hub that's mean't to work universally to-date. Everest covers so many features other's don't have, or were thought to not exist. Compatibility with Everest has been limited to the Synapse X executor, due to the fact that is supports more features than any other script executor to-date, with Everest having over 2 years of development gone into it.
+
+Enjoy!
 
 # Features
 
