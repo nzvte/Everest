@@ -42,7 +42,7 @@ In order to use, or even execute Everest, you will need to buy the Synapse X exe
 loadstring(game:HttpGet(""))()
 ```
 
-You can even save it into your Synapse's Autoexecute folder, and works great!
+You can even save it into your Synapse's Autoexecute folder, and it works great!
 
 # Full Credit Listing
 
